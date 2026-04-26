@@ -8,7 +8,7 @@ import threading
 import time
 
 # Configuration
-TELEGRAM_TOKEN = '7818524294:AAH3c1fcJhfn8gj-sIa99ZEtXUjdyJMJU84'
+TELEGRAM_TOKEN = 'Не покажу :)'
 EXCEL_FILE = 'Таблица пример уроки.xlsx'  # Локальный файл Excel
 timeDelay = [20, 19]
 
