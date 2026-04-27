@@ -1,4 +1,4 @@
-# OPDbot — репетиторский Telegram-бот для расписания
+# OPDbot - репетиторский Telegram-бот для расписания
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
